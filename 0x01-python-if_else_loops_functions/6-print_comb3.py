@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Printing all possible different combinations of two digits in ascending order
+"""Printing all possible combinations of two digits in ascending order
 """
 for a in range(0, 10):
     for b in range(a + 1, 10):
